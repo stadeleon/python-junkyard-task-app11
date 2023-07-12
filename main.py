@@ -1,0 +1,1 @@
+print('Junkyard Storage init')
